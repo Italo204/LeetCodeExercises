@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CMt63kU6ui0kR3lePYgLhvrHuQgr1m2HDDukbUHIhQ95hBD9nY/Rh1cj7YIQKdDMB9rqjNVibRR7ufAQg4nS2g==",
+  "success": true,
+  "projectFilePath": "/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/9.PalindromeNumber.csproj",
+  "expectedPackageFiles": [
+    "/home/italo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.32/microsoft.netcore.app.host.linux-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

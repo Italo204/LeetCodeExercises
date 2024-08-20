@@ -1,0 +1,15 @@
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/bin/Debug/net6.0/9.PalindromeNumber
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/bin/Debug/net6.0/9.PalindromeNumber.deps.json
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/bin/Debug/net6.0/9.PalindromeNumber.runtimeconfig.json
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/bin/Debug/net6.0/9.PalindromeNumber.dll
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/bin/Debug/net6.0/9.PalindromeNumber.pdb
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.AssemblyInfoInputs.cache
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.AssemblyInfo.cs
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.csproj.CoreCompileInputs.cache
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.sourcelink.json
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.dll
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/refint/9.PalindromeNumber.dll
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.pdb
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/9.PalindromeNumber.genruntimeconfig.cache
+/home/italo/Documents/LeetCode/EasyTests/9.PalindromeNumber/obj/Debug/net6.0/ref/9.PalindromeNumber.dll
